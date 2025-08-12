@@ -1,0 +1,11 @@
+.product-image{
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+}
+
+.product-card{
+    width: 100%;
+    border: none;
+    box-shadow: 3px 4px 11px -4px
+}
